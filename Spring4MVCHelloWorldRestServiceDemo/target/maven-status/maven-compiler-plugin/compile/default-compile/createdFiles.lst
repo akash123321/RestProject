@@ -1,0 +1,4 @@
+com\websystique\springmvc\configuration\HelloWorldConfiguration.class
+com\websystique\springmvc\configuration\HelloWorldInitializer.class
+com\websystique\springmvc\domain\Message.class
+com\websystique\springmvc\controller\HelloWorldRestController.class
